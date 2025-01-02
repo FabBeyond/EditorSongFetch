@@ -5,7 +5,7 @@
 	},
 	"id": "fabbeyond.editorsongfetch",
 	"name": "EditorSongFetch",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "Fabbeyond",
 	"description": "This mod adds a button in the pre-editor to download the song used in the level",
 	"dependencies": [
