@@ -1,0 +1,11 @@
+{
+	"geode": "4.1.1",
+	"gd": {
+		"win": "2.2074"
+	},
+	"id": "fabbeyond.editorsongfetch",
+	"name": "EditorSongFetch",
+	"version": "v1.0.0",
+	"developer": "Fabbeyond",
+	"description": "This mod adds a button in the pre-editor to download the song used in the level"
+}
