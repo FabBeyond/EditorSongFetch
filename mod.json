@@ -7,5 +7,12 @@
 	"name": "EditorSongFetch",
 	"version": "v1.0.0",
 	"developer": "Fabbeyond",
-	"description": "This mod adds a button in the pre-editor to download the song used in the level"
+	"description": "This mod adds a button in the pre-editor to download the song used in the level",
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.18.0",
+			"importance": "required"
+		}
+	]
 }

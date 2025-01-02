@@ -36,8 +36,6 @@ class $modify(MyEditLevelLayer, EditLevelLayer) {
 
         int songId;
         songId = p0->m_songID;
-        std::string sondIDstring = std::to_string(songId);
-        log::debug("Song ID: {}", songId);
 
         MusicDownloadManager::sharedState()->downloadSong(songId);
     }
